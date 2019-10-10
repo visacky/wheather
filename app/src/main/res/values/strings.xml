@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wheather</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_connection">Data from cache.Check your internet connection for updated data list</string>
+</resources>
